@@ -2,4 +2,4 @@
 
 <img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200"/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brayan-cristancho&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayan-cristancho&layout=compact&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brayan-cristancho&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Camilo-Cristancho&layout=compact&theme=tokyonight" /> </p>
